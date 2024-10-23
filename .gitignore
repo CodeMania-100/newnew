@@ -1,0 +1,15 @@
+﻿# Dependencies
+node_modules/
+.wwebjs_auth/
+Cache_Data/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Specific large files
+**/*.exe
+**/*.dll
